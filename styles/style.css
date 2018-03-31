@@ -1,0 +1,18 @@
+body {
+	color: black;	
+	width: 500px;
+	margin: 0 auto;
+	border: 1px solid black;
+	text-align: center;
+	font-family: open sans;
+	font-weight: lighter;
+	font-size: 12pt;
+}
+
+h1{
+	font-weight: lighter
+}
+
+html {
+	background-color: #F5EFEF;
+}
